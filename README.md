@@ -10,5 +10,5 @@ Semester 1, Academic year: 2024-2025.
 
 **Student Name**: Bui Ngoc Truc
 
-**Class Number**: CT313H/M01
+**Class Number**: ...
 
